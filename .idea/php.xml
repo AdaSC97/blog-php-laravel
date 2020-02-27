@@ -88,6 +88,7 @@
       <path value="$PROJECT_DIR$/cms/vendor/doctrine/instantiator" />
       <path value="$PROJECT_DIR$/cms/vendor/fideloper/proxy" />
       <path value="$PROJECT_DIR$/cms/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/cms/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
